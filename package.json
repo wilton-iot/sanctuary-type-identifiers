@@ -26,5 +26,13 @@
     "/README.md",
     "/index.js",
     "/package.json"
-  ]
+  ],
+  "wilton": {
+    "excludes": [
+      "scripts",
+      "test",
+      "CONTRIBUTING.md",
+      "circle.yml"
+    ]
+  }
 }
